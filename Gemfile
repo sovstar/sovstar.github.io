@@ -9,3 +9,4 @@ group :test do
 end
 gem 'csv'
 gem 'base64'
+gem 'jekyll-compose', group: [:jekyll_plugins]
