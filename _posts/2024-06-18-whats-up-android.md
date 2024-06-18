@@ -1,0 +1,11 @@
+
+---
+title: "Whats up Android"
+date: 2024-06-18
+categories: [Mobile test]
+tags: [testpost]
+---
+
+#what's up ?
+
+this is a test from the Android phone just seeing if I can upload this and make it appear on my website later! 
