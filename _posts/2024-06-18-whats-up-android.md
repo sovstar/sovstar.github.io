@@ -1,4 +1,3 @@
-
 ---
 title: "Whats up Android"
 date: 2024-06-18
